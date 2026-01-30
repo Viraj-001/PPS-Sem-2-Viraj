@@ -15,7 +15,8 @@ Use π = 3.14 and display the area.
 ---
 
 ## Flowchart
-![Flowchart](Area_of_Circle.drawio.png)
+<img width="152" height="372" alt="image" src="https://github.com/user-attachments/assets/06ed8915-eb4d-4472-91be-2db1fbdda169" />
+
 
 ---
 

@@ -1,0 +1,10 @@
+ALGORITHM: AREA OF A RECTANGLE.
+
+
+Step 1: Start.
+Stqp 2: Input the length L of the rectangle.
+Step 3: Input the breadth B of the rectangle.
+Step 4: Calculate area using the formula.
+Step 5: Area=𝐿×𝐵.
+Step 6: Display the area.
+Step 7: Stop.

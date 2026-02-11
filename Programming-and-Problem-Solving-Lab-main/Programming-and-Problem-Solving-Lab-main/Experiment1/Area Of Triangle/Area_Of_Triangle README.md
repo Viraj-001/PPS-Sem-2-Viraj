@@ -18,9 +18,8 @@ Write a Python program that prompts the user to enter the triangle's base and he
 ---
 
 ## Execution
-<p align="center">
-  <img src="Area_Of_Triangle Execution.png" width="900">
-</p>
+<img width="1920" height="884" alt="image" src="https://github.com/user-attachments/assets/beed8b38-c322-4aab-8adf-022b32e132a5" />
+
 
 
 

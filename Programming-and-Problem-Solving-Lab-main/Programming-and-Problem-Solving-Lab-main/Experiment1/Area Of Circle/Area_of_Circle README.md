@@ -20,4 +20,5 @@ Use π = 3.14 and display the area.
 ---
 
 ## Execution
-<img src="https://github.com/user-attachments/assets/9323d1d8-913a-473f-96ec-fb64f2d5c6a8" width="900"/>
+<img width="1918" height="879" alt="image" src="https://github.com/user-attachments/assets/0584fdcd-9cd6-46d5-b6c4-23079ab513ad" />
+

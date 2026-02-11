@@ -22,9 +22,8 @@ Write a Python program that prompts the user to enter three integers. Print the 
 ---
 
 ## Execution
-<p align="center">
-  <img src="Largest.png" width="900">
-</p>
+<img width="1920" height="889" alt="image" src="https://github.com/user-attachments/assets/62e239a7-c020-4b49-afe3-213de7a71b0d" />
+
 
 
 

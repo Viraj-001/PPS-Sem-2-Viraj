@@ -19,9 +19,8 @@ Write a Python program to determine whether a student passed the exam or not bas
 ---
 
 ## Execution
-<p align="center">
-  <img src="Stud_Status_Execution.png" width="900">
-</p>
+<img width="1920" height="887" alt="image" src="https://github.com/user-attachments/assets/d5adcf51-a4e6-49b3-a558-937ca40699e3" />
+
 
 
 

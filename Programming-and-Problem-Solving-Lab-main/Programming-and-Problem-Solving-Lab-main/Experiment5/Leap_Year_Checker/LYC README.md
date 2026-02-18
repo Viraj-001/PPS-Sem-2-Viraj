@@ -1,31 +1,29 @@
 
 ## Problem Statement
-Write a Python program to perform union, intersection and difference operations on Set A and Set B.
+Write a Python program that prompts the user to enter a year. The program should determine if the year is a leap year or not and print the appropriate message.
+
+
 ---
 
 ## Algorithm
-1. Start.  
-2. Declare two sets A and B
-3. Read elements of Set A from the user
-4. Read elements of Set B from the user
-5. Perform Union operation
-   Union = A ∪ B.
-6. Perform Intersection operation
-   Intersection = A ∩ B.
-7. Perform Difference operations
-8. Difference1 = A − B.
-9. Display Set A and Set B
-10. Display Union, Intersection, and Difference results
-11. Stop
----
+1.Start.
+2.Read the year from the user
+3.If the year is divisible by 400   → Print "Leap Year"
+4.Else if the year is divisible by 100   → Print "Not a Leap Year"
+5.Else if the year is divisible by 4   → Print "Leap Year"
+6.Else   → Print "Not a Leap Year"
+7.Stop
+
 
 ## Flowchart
-![Flowchart](Set_Opp.drawio.png)
+<img width="432" height="532" alt="image" src="https://github.com/user-attachments/assets/2aa72c1a-1e75-4480-84dd-aeb786200910" />
+
 
 ---
 
 ## Execution
-<img width="1920" height="898" alt="image" src="https://github.com/user-attachments/assets/fc50966e-07c5-4a0a-b09c-50ef46b77d94" />
+<img width="1915" height="838" alt="image" src="https://github.com/user-attachments/assets/a6eebbd0-9cc3-4ed2-991d-c8b9179a34f3" />
+
 
 
 

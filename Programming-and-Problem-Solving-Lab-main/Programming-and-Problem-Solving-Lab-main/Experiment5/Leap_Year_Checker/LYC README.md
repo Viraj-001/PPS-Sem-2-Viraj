@@ -22,7 +22,7 @@ Write a Python program that prompts the user to enter a year. The program should
 ---
 
 ## Execution
-<img width="1915" height="838" alt="image" src="https://github.com/user-attachments/assets/a6eebbd0-9cc3-4ed2-991d-c8b9179a34f3" />
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/ee598427-4690-411a-a736-48448cd6306d" />
 
 
 

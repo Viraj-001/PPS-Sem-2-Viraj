@@ -37,7 +37,7 @@ Aggregate < 40 : Fail.
 ---
 
 ## Execution
-<img width="1918" height="1040" alt="image" src="https://github.com/user-attachments/assets/804415fe-2b35-41bf-9214-6ded385e1790" />
+<img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/eb807091-23ed-461f-9e1b-a9a5d5d68d40" />
 
 
 

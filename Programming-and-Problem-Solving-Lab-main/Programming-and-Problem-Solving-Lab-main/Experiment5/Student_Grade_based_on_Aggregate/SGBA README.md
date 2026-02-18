@@ -31,14 +31,13 @@ Aggregate < 40 : Fail.
 12. Stop.
 
 ## Flowchart
-![Flowchart](Stud_Agg.drawio.png)
+<img width="422" height="972" alt="image" src="https://github.com/user-attachments/assets/3e51f38b-fc88-4684-bb81-43c3c21d962e" />
+
 
 ---
 
 ## Execution
-<p align="center">
-  <img src="Stud_Agg exe.png" width="900">
-</p>
+<img width="1918" height="1040" alt="image" src="https://github.com/user-attachments/assets/804415fe-2b35-41bf-9214-6ded385e1790" />
 
 
 

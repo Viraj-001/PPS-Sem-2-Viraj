@@ -16,6 +16,7 @@ If i ≠ j AND i ≠ k AND j ≠ k:
 Print digits[i] + digits[j] + digits[k]
 
 5.Stop
+
 ---
 
 ## Flowchart

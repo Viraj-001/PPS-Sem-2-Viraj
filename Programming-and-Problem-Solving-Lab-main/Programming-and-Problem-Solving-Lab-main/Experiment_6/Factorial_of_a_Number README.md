@@ -27,7 +27,6 @@ Write a Python program to calculate the factorial of a number n using loops.
 ---
 
 ## Execution
-<p align="center">
-  <img src="fact no..png" width="900">
-</p>
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/be5f2fcd-d382-4abb-8baf-cc1f1ea12cbd" />
+
 

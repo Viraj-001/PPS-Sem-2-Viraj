@@ -56,7 +56,8 @@ Go back to Step 3
 ---
 
 ## Execution
-<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/d71d78fc-3f5e-4326-8073-03ec22fa5ab0" />
+<img width="1915" height="952" alt="image" src="https://github.com/user-attachments/assets/c49da348-830e-438a-a454-2565fb85c3c8" />
+
 
 
 

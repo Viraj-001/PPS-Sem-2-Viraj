@@ -21,9 +21,8 @@ Write a Python program to calculate the factorial of a number n using loops.
 ---
 
 ## Flowchart
-<p align="center">
-  <img src="fact.drawio.png" width="900">
-</p
+<img width="462" height="342" alt="image" src="https://github.com/user-attachments/assets/0be2439d-9051-47e1-b8e7-600a6f80e117" />
+
 
 ---
 

@@ -4,13 +4,17 @@ Write a Python program to accept three digits and print all possible 3-digit com
 
 ## Algorithm
 1.Start
+
 2.Input three values a, b, c
+
 3.Store them in a list: digits = [a, b, c]
+
 4.For i from 0 to 2:
 For j from 0 to 2:
 For k from 0 to 2:
 If i ≠ j AND i ≠ k AND j ≠ k:
 Print digits[i] + digits[j] + digits[k]
+
 5.Stop
 ---
 

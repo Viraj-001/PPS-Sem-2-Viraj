@@ -11,12 +11,15 @@ Write a Python program to print an inverted right-angled triangle star pattern.
 
 4.If yes:
 Print n stars ("*" * n)
+
 Decrease n by 1 (n = n - 1)
+
 Go back to Step 3
 
 5.If no:
 
 6.Stop
+
 ---
 
 ## Flowchart

@@ -15,7 +15,8 @@ Print digits[i] + digits[j] + digits[k]
 ---
 
 ## Flowchart
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a08d174d-d3a2-4798-9537-bbcc58b3de9d" />
+<img width="1024" height="904" alt="image" src="https://github.com/user-attachments/assets/6090cbe0-a6b0-4e7a-86ba-50a1909bd3ca" />
+
 
 
 

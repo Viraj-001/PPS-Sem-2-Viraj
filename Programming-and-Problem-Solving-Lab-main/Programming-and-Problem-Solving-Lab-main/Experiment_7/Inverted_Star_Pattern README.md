@@ -15,7 +15,8 @@ Go back to Step 3
 ---
 
 ## Flowchart
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c6ca34e8-aa95-4f9d-80a9-9a85439baa30" />
+<img width="1024" height="904" alt="image" src="https://github.com/user-attachments/assets/3da6c92c-a7c3-4b77-b078-062ff84e0d79" />
+
 
 
 ---

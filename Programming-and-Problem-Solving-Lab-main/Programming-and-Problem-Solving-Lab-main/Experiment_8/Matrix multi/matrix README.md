@@ -37,4 +37,5 @@ Matrix.drawio.png)
 ---
 
 ## Execution
-"C:\Users\SIT.LAB8\Pictures\Screenshots\Screenshot 2026-04-15 101802.png"
+<img width="1919" height="946" alt="Screenshot 2026-04-15 101802" src="https://github.com/user-attachments/assets/861f567d-69e4-4fb1-990b-9bcb103f37c6" />
+

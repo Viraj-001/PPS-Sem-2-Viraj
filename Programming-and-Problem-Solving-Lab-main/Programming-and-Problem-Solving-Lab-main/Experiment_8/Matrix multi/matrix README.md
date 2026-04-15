@@ -31,8 +31,7 @@ Write a Python program to perform the multiplication of two square matrices. The
 ---
 
 ## Flowchart
-![Flowchart](
-Matrix.drawio.png)
+<img width="494" height="782" alt="image" src="https://github.com/user-attachments/assets/2a830ac6-660c-4632-9704-e8be455c1e58" />
 
 ---
 

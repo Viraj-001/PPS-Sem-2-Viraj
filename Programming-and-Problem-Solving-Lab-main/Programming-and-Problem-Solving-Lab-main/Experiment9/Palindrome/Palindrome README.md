@@ -23,8 +23,8 @@ Write a Python program to take a string as input and check whether the given str
 ---
 
 ## Flowchart
-![Flowchart](
-Palin.drawio.png)
+<img width="719" height="590" alt="image" src="https://github.com/user-attachments/assets/a895390f-d11e-4272-a607-5cc413140184" />
+
 
 ---
 

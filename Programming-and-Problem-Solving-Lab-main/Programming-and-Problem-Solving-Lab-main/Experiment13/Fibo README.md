@@ -31,14 +31,13 @@ Step 7: Stop
 ---
 
 ## Flowchart
-![Flowchart](
-Fibbo.drawio.png)
+<img width="558" height="922" alt="image" src="https://github.com/user-attachments/assets/12720e2f-89e7-4dc4-8994-24f0071fb22d" />
+
 
 ---
 
 ## Execution
-<p align="center">
-  <img src="Fibo.png" width="900">
-</p>
+<img width="1918" height="948" alt="image" src="https://github.com/user-attachments/assets/6ac16d0a-dba0-49c9-8f36-444b16402b58" />
+
 
 

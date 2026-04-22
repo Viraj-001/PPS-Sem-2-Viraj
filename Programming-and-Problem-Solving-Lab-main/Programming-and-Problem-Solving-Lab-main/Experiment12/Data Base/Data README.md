@@ -30,8 +30,6 @@ phone.drawio.png)
 ---
 
 ## Execution
-<p align="center">
-  <img src="Phone Number.png" width="900">
-</p>
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/901bb3ce-e774-4b15-a873-9c06c0c6e45f" />
 
 

@@ -37,7 +37,6 @@ Complex.drawio.png)
 ---
 
 ## Execution
-<p align="center">
-  <img src="Complex.png" width="900">
-</p>
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/53b5af99-5b39-4c82-874a-75b51be24985" />
+
 

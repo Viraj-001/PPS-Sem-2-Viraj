@@ -23,13 +23,11 @@ Stop
 ---
 
 ## Flowchart
-![Flowchart](
-Car.drawio.png)
+<img width="231" height="942" alt="image" src="https://github.com/user-attachments/assets/bc8254d2-1485-4893-9bed-5cfd5f4cea82" />
+
 
 ---
 
 ## Execution
-<p align="center">
-  <img src="Car.png" width="900">
-</p>
+<img width="1918" height="943" alt="image" src="https://github.com/user-attachments/assets/e28dcfb1-993e-4898-b31d-3cdf0b490c28" />
 
